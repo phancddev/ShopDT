@@ -124,4 +124,14 @@ canvas {
     display:none;
  }
 
+ .an {
+display: none;
+ }
+ .hien {
+    display: block;
+    font-weight: bold;
+    font-size:32px;
+    font-family: sans-serif;
+    /* color:#e5e9f0; */
+ }
   
