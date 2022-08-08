@@ -2,8 +2,8 @@ let dangDev = () => {
     alert("Chức năng này đang được phát triển, vui lòng quay lại sau!")
 }
 
-let nhacNen =   new Audio('./src/music_sounds/solo.mp3')
-nhacNen.play();
+// let nhacNen =   new Audio('./src/music_sounds/solo.mp3')
+// nhacNen.play();
 
 // let balls = [];
 // let _lastFrame = 0;
