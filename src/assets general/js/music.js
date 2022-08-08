@@ -1,5 +1,9 @@
-let nhacNen = new Audio('./src/music_sounds/solo.mp3')
+let nhacNen = new Audio('/src/sounds _music/solo.mp3')
 
-window.addEventListener('click', () => {
+let music = document.getElementById('music');
+music.addEventListener('click', () => {
          nhacNen.play()
-      }, { once: true })
+         console.log("da chay");
+      })
+
+      
