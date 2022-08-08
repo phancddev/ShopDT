@@ -1,4 +1,4 @@
-let nhacNen = new Audio('/src/sounds _music/solo.mp3')
+let nhacNen = new Audio('src/sounds_music/solo.mp3')
 
 let music = document.getElementById('music')
 music.addEventListener('click', () => {
