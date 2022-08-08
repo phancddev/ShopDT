@@ -1,0 +1,127 @@
+/*===========================================
+|    ShopDT 2022 - CSS Homepage File    |
+===========================================*/
+
+/*==Reset CSS==*/
+* {
+    margin: 0;
+    padding: 0;
+  }
+  body {
+   
+    font-family: "Open Sans", sans-serif;
+  }
+  #themeBody {
+    background-color: #2e3440;
+  }
+  
+  /* #LoginLogup {
+    display:inline-block;
+    width: 100px;
+    height: 100px;
+    justify-content:left;
+  float: left;
+  } */
+  .navbar {
+
+    border-style:solid;
+    border-color: #EB1D36;
+    
+    background-color:#FF8D00 !important ;
+  }
+  .classButt {
+    width:200px;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 7px;
+    cursor: pointer;
+   
+    text-align: center;
+    padding-inline: 10px;
+    
+    
+  }
+  #buttLogIn { background-color: #00D7FF;}
+  #buttLogIn:hover {
+    background-color: #0096FF;
+    font-weight: bold;
+  }
+  #buttLogUp {
+    background-color: #F94C66;
+  }
+  #buttLogUp:hover {
+    background-color: #EB1D36;
+    font-weight: bold;
+  }
+  .buttLog {
+    float:right;
+    
+
+  
+  }
+
+  
+  #logIn,#logUp {
+    display: none;
+  }
+
+  #home:hover, #contact:hover,#navbarDropdownMenuLink:hover {
+font-weight: bold;
+
+  }
+
+  .dropdown-item:hover {
+font-weight: bold;
+}
+/*===========================================
+|   Theme - Informations - Footer           |
+===========================================*/
+.theme-link {
+    float: right !important;
+    justify-content: right !important;
+  }
+  
+  .theme-link:hover {
+    background-color: #e5e9f0 !important;
+  }
+  
+  .theme {
+    background-color: #e5e9f0;
+    overflow: hidden;
+    border-radius: 20px;
+    left: unset !important;
+    padding: 14px 16px;
+    margin: 1em;
+  }
+  
+  .theme i {
+    color: #3b4252;
+    text-decoration: none;
+    font-size: 17px;
+    padding-right: 0.5em;
+  }
+  
+  .theme-right {
+    padding-right: 0 !important;
+  }
+  
+  .theme a {
+    text-decoration: none;
+  }
+  
+
+
+/* Hieu ung sao & tuyet roi */
+
+canvas {
+    cursor: crosshair;
+    display: block;
+  }
+ 
+
+ .musicSolo {
+    display:none;
+ }
+
+  

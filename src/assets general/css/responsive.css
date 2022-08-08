@@ -1,0 +1,60 @@
+
+/* @media screen and (max-width: 441px) {
+    #btnlogin {
+        text-align: right;
+        padding-left:250px;
+        width:500px;
+        float:left;
+        position: fixed;
+        padding-bottom:50px;
+        
+        
+    }
+} */
+
+
+/* @media screen and (max-width: 991px) {
+    tablet vói mobile
+    .classbutt {
+   width:100%
+     text-align : center;
+    
+      }
+      
+      .buttlog {
+        width:100%
+       
+        display: none;
+      }
+    } */
+
+    @media screen and  (max-width: 991px){
+
+        .classButt {
+            display: none;
+        
+        }
+        #logIn,#logUp {
+            display: block;
+          }
+        
+    }
+    @media screen and (max-width: 600px) {
+        .theme i {
+          color: #3b4252;
+          text-decoration: none;
+          font-size: 17px;
+          padding-right: 0.5em;
+          display: flex;
+        }
+      
+        .theme-right {
+          padding-right: 0.5em !important;
+        }
+      
+        .theme-left {
+          padding-right: 0 !important;
+        }
+      
+    }
+    
