@@ -22,13 +22,13 @@
     justify-content:left;
   float: left;
   } */
-  .navbar {
+  /* .navbar {
 
     border-style:solid;
     border-color: #EB1D36;
-    color:white;
+    color:white !important;
     background-color:#FF8D00 !important ;
-  }
+  } */
   .classButt {
     width:200px;
     color: white;
