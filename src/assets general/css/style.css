@@ -134,4 +134,7 @@ display: none;
     font-family: sans-serif;
     /* color:#e5e9f0; */
  }
+ #butTheme:hover {
+  cursor:pointer;
+ }
   
